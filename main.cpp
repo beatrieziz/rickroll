@@ -1,24 +1,22 @@
 #include <iostream>
+#include <string>
 
-#define never int
-#define gonna main
-#define give (
-#define you )
-#define up {
-#define Never std
-#define Gonna ::
-#define let cout
-#define You <<
-#define down "https://youtu.be/dQw4w9WgXcQ\n"
-#define nEver ;
-#define gOnna ;
-#define run ;
-#define around return
-#define And 0
-#define desert ;
-#define yOu }
+#include "os.hpp"
+#include "rickroll.hpp"
 
-never gonna give you up
-Never Gonna let You down
-nEver gOnna run around
-And desert yOu
+// Copyright (c) 2021 Beatrieziz
+
+were no strangers to love
+_you know the rules And so Do I
+A full commitments what im thinking of
+You wouldnt get This From any other guys
+
+_I just wanna tell yOu how Im feeling
+gotta make yoU understand
+
+never gonna give YOU up
+never gonna let YOU down
+never gonna run around aND desert YOU
+never gonna _make YOU cry 
+never gonna say goodbye
+never gonna _tell a lie AND hurt __you

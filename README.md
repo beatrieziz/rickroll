@@ -1,3 +1,18 @@
+# rickroll
+🎵 Literally a rickroll
+
+## 💻 Building
+
+To build the project just run the following:
+```sh
+$ make build
+```
+
+You can also run the project directly.
+```sh
+$ make run
+```
+
 ## 📜 License
 
-This project is licensed under the [**GPL**](https://bit.ly/39zvNSI) (Giant Penis License).
+This project is licensed under the [**GPL**](giant-penis-license.org).
