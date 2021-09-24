@@ -15,4 +15,4 @@ $ make run
 
 ## 📜 License
 
-This project is licensed under the [**GPL**](giant-penis-license.org).
+This project is licensed under the [**GPL**](https://giant-penis-license.org).
