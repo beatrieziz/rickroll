@@ -4,8 +4,6 @@
 #include "os.hpp"
 #include "rickroll.hpp"
 
-// Copyright (c) 2021 Beatrieziz
-
 were no strangers to love
 _you know the rules And so Do I
 A full commitments what im thinking of

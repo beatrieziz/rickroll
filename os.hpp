@@ -1,5 +1,3 @@
-// Copyright (c) 2021 Beatrieziz
-
 #ifdef _WIN32
 #define PROG "start"
 #endif

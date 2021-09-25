@@ -1,5 +1,3 @@
-// Copyright (c) 2021 Beatrieziz
-
 #define were void
 #define no open_rick_roll
 #define strangers (
